@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;600&display=swap');
 
 
 * {
@@ -29,13 +29,13 @@ main header h1 {
 
 main header h2 {
     text-align: right;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 1rem;
 }
 
 main header p {
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
 }
 
@@ -58,7 +58,7 @@ main .profile {
 .profile .details .name {
     font-size: 0.875rem;
     letter-spacing: 0.56px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .profile .details .description {
@@ -76,7 +76,7 @@ footer {
     height: 70px;
     color: white;
     font-size: 0.875rem;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
 }
 
